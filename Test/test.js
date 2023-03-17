@@ -1,0 +1,3 @@
+function calculateDayBetweenDates(begin, end) {
+    
+}
